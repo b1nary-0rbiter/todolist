@@ -95,7 +95,7 @@ function App() {
                                              Yet another task to be avoided
                                         </DialogTitle>
                                         <DialogDescription className="text-gray-600">
-                                             Somethings never change i guess
+                                             Some things never change i guess
                                         </DialogDescription>
                                    </DialogHeader>
                                    <div className="flex flex-col space-y-4 py-4">
