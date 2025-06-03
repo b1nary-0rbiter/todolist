@@ -5,6 +5,9 @@ import { defineConfig } from "vite"
 
 export default defineConfig({
      base: "/todolist/",
+     build: {
+          outDir: "docs"
+     },
      plugins: [react(), tailwindcss()],
      resolve: {
           alias: {
