@@ -8,7 +8,6 @@ import {
      DialogTrigger,
 } from "@/components/ui/dialog"
 import { useState } from "react"
-import type { FormEvent } from "react"
 import { Trash2, Check, Plus, ListTodo } from "lucide-react"
 interface Task {
      id: number
